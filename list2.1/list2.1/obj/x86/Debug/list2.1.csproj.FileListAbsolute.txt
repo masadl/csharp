@@ -1,0 +1,5 @@
+/Users/mju/Projects/list2.1/list2.1/bin/Debug/list2.1.exe
+/Users/mju/Projects/list2.1/list2.1/bin/Debug/list2.1.pdb
+/Users/mju/Projects/list2.1/list2.1/obj/x86/Debug/list2.1.csproj.CoreCompileInputs.cache
+/Users/mju/Projects/list2.1/list2.1/obj/x86/Debug/list2.1.exe
+/Users/mju/Projects/list2.1/list2.1/obj/x86/Debug/list2.1.pdb

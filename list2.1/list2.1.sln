@@ -14,4 +14,8 @@ Global
 		{0F37F36B-07A1-40D8-9ABD-E8E25CFC50C3}.Release|x86.ActiveCfg = Release|x86
 		{0F37F36B-07A1-40D8-9ABD-E8E25CFC50C3}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.VersionControlPolicy = $1
+	EndGlobalSection
 EndGlobal
