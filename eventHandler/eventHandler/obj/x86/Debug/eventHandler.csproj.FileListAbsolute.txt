@@ -1,0 +1,5 @@
+/Users/mju/Projects/eventHandler/eventHandler/bin/Debug/eventHandler.exe
+/Users/mju/Projects/eventHandler/eventHandler/bin/Debug/eventHandler.pdb
+/Users/mju/Projects/eventHandler/eventHandler/obj/x86/Debug/eventHandler.csproj.CoreCompileInputs.cache
+/Users/mju/Projects/eventHandler/eventHandler/obj/x86/Debug/eventHandler.exe
+/Users/mju/Projects/eventHandler/eventHandler/obj/x86/Debug/eventHandler.pdb

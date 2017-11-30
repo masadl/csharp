@@ -1,0 +1,5 @@
+/Users/mju/Projects/studyDelegate/studyDelegate/bin/Debug/studyDelegate.exe
+/Users/mju/Projects/studyDelegate/studyDelegate/bin/Debug/studyDelegate.pdb
+/Users/mju/Projects/studyDelegate/studyDelegate/obj/x86/Debug/studyDelegate.csproj.CoreCompileInputs.cache
+/Users/mju/Projects/studyDelegate/studyDelegate/obj/x86/Debug/studyDelegate.exe
+/Users/mju/Projects/studyDelegate/studyDelegate/obj/x86/Debug/studyDelegate.pdb

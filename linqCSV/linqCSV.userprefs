@@ -1,7 +1,7 @@
-﻿<Properties StartupConfiguration="{0F37F36B-07A1-40D8-9ABD-E8E25CFC50C3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="list2.1/list2.1.cs">
+﻿<Properties StartupConfiguration="{4E379B39-6E83-42A5-9E16-120CC3CC2278}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="linqCSV/Program.cs">
     <Files>
-      <File FileName="list2.1/list2.1.cs" Line="13" Column="46" />
+      <File FileName="linqCSV/Program.cs" Line="26" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -9,6 +9,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.list2.1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.linqCSV PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>

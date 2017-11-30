@@ -1,0 +1,5 @@
+/Users/mju/Projects/Inheritance1/Inheritance1/bin/Debug/Inheritance1.exe
+/Users/mju/Projects/Inheritance1/Inheritance1/bin/Debug/Inheritance1.pdb
+/Users/mju/Projects/Inheritance1/Inheritance1/obj/x86/Debug/Inheritance1.csproj.CoreCompileInputs.cache
+/Users/mju/Projects/Inheritance1/Inheritance1/obj/x86/Debug/Inheritance1.exe
+/Users/mju/Projects/Inheritance1/Inheritance1/obj/x86/Debug/Inheritance1.pdb

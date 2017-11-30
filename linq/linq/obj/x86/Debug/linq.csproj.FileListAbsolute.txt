@@ -1,0 +1,1 @@
+/Users/mju/Projects/linq/linq/obj/x86/Debug/linq.csproj.CoreCompileInputs.cache

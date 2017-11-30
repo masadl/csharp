@@ -1,0 +1,5 @@
+/Users/mju/Projects/linqCSV/linqCSV/bin/Debug/linqCSV.exe
+/Users/mju/Projects/linqCSV/linqCSV/bin/Debug/linqCSV.pdb
+/Users/mju/Projects/linqCSV/linqCSV/obj/x86/Debug/linqCSV.csproj.CoreCompileInputs.cache
+/Users/mju/Projects/linqCSV/linqCSV/obj/x86/Debug/linqCSV.exe
+/Users/mju/Projects/linqCSV/linqCSV/obj/x86/Debug/linqCSV.pdb
